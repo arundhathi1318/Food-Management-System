@@ -1,7 +1,11 @@
 🍽️ Food Wastage Management System
+
+
 The Food Wastage Management System is a web platform that enables users to browse and order surplus food from nearby restaurants through a responsive website. The goal is to reduce food waste by connecting restaurants with excess food to consumers, NGOs, or shelters. Users can explore available food options in real-time, reserve or order meals at discounted or zero cost, and schedule pickups conveniently. This initiative promotes sustainability by reducing waste while providing affordable meals to those in need.
 
 🛠️ Tech Stack
+
+
 Frontend: HTML, CSS, JavaScript, React
 Backend: Node.js, Express
 Database: MongoDB
